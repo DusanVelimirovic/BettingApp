@@ -40,6 +40,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/my-feature`).
 6. Create a new pull request.
 
+## **Flowchart**
+
 ![Betting App flowchart-Inpiut, display, processing drawio](https://github.com/DusanVelimirovic/BettingApp/assets/89640144/651fb143-f95d-4a09-a750-2c2aa5fb1f47)
 
 
